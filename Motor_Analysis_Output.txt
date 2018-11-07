@@ -1,0 +1,32 @@
+Motor Use Summary: 
+
+
+Motor 1:
+Burst 1: 3.048 amps, starting at 199, ending at 258
+Burst 2: 7.231 amps, starting at 609, ending at 638
+Burst 3: 2.234 amps, starting at 949, ending at 958
+
+Motor 2:
+Burst 1: 4.09 amps, starting at 99, ending at 138
+Burst 2: 7.254 amps, starting at 209, ending at 238
+Burst 3: 4.437 amps, starting at 949, ending at 958
+
+Motor 3:
+Burst 1: 7.234 amps, starting at 309, ending at 338
+Burst 2: 4.433 amps, starting at 549, ending at 558
+
+Motor 4:
+Motor did not run at all!
+
+Motor 5:
+Burst 1: 7.248 amps, starting at 209, ending at 238
+Burst 2: 4.468 amps, starting at 949, ending at 958
+
+Motor 6:
+***CURRENT EXCEEDED!: started at 249, and ended at 358
+Burst 1: 4.042 amps, starting at 649, ending at 758
+
+Motor 7:
+Burst 1: 4.093 amps, starting at 99, ending at 138
+***CURRENT EXCEEDED!: started at 209, and ended at 238
+Burst 2: 4.428 amps, starting at 949, ending at 958
